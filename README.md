@@ -4,6 +4,7 @@ Câu lạc bộ học thuật ICON thuộc khoa CNTT trường Đại học Tôn
 
 ## Các liên kết
 * [Danh sách thành viên](https://github.com/iconclub/icon-wiki/wiki/Danh-s%C3%A1ch-th%C3%A0nh-vi%C3%AAn)
+* [Danh sách dự án](https://github.com/iconclub/icon-wiki/wiki/Danh-s%C3%A1ch-d%E1%BB%B1-%C3%A1n-%C4%91ang-ph%C3%A1t-tri%E1%BB%83n)
 * [Danh sách đề tài](https://github.com/iconclub/icon-wiki/wiki/Danh-s%C3%A1ch-%C4%91%E1%BB%81-t%C3%A0i)
 
 ## Các câu hỏi thường gặp
